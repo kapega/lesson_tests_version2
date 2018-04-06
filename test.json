@@ -1,0 +1,50 @@
+{
+	"test_name": "Who wants to be a millionaire",
+	"questions": [
+	  {
+		"q": "Complete this phrase. As sick as a...",
+		"answers": [
+			{"a": "Penguin", "correct": false},
+			{"a": "Parrot", "correct": true},
+			{"a": "Puffin", "correct": false},
+			{"a": "Partridge", "correct": false}
+		]
+	  },
+	  {
+		"q": "Which legal document states a person's wishes regarding the disposal of their property after death?",
+		"answers": [
+			{"a": "Will", "correct": true},
+			{"a": "Shall", "correct": false},
+			{"a": "Would", "correct": false},
+			{"a": "Should", "correct": false}
+		]
+	  },
+	  {
+		"q": "Complete the title of the James Bond film The Man With The Golden...",
+		"answers": [
+			{"a": "Gun", "correct": true},
+			{"a": "Tooth", "correct": false},
+			{"a": "Delicious", "correct": false},
+			{"a": "Eagle", "correct": false}
+		]
+	  },
+	  {
+		"q": "Which of these fruits shares its name with something superior or desirable?",
+		"answers": [
+			{"a": "Apricot", "correct": false},
+			{"a": "Mango", "correct": false},
+			{"a": "Grapefruit", "correct": false},
+			{"a": "Plum", "correct": true}
+		]
+	  },
+	  {
+		"q": "In which sport do two teams pull at the opposite ends of a rope?",
+		"answers": [
+			{"a": "Ice hockey", "correct": false},
+			{"a": "Basketball", "correct": false},
+			{"a": "Tug of war", "correct": true},
+			{"a": "Polo", "correct": false}
+		]
+	  }
+	]
+}
